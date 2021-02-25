@@ -1,5 +1,5 @@
 # Data-Science-and-Decision-Making 
-here it will be listed the assignments and information about them
+-all assignment will be listed here   
 
-# Assignment 1   25 feb 2021 submission date 
-open assignment 1 folder to see further details 
+# Assignment#1 submission date 25 feb 2021 
+open assignment 1 folder to see further details about assignment 1
